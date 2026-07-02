@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+/* Hero */
+.hero {
+  padding: 80px 20px;
+  background: linear-gradient(45deg, #1e293b, #0f766e);
+}
+
+.hero span {
+  color: #38bdf8;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #38bdf8;
+  color: black;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+/* Sections */
+section {
+  padding: 50px 20px;
+}
+
+.skills .box span {
+  display: inline-block;
+  background: #1e293b;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+/* Projects */
+.card {
+  background: #1e293b;
+  margin: 10px auto;
+  padding: 15px;
+  width: 60%;
+  border-radius: 10px;
+}
+
+/* Footer */
+footer {
+  background: #111827;
+  padding: 15px;
+}
